@@ -1,0 +1,17 @@
+<xml>
+    bla bla bla things
+    <version>0.18.0</version>
+
+    <dependency>
+        <artifactId>dependencyA</artifactId>
+        <version>0.1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+        <artifactId>dependencyB</artifactId>
+        <version>0.4.0</version>
+    </dependency>
+    <dependency>
+        <artifactId>dependencyC</artifactId>
+        <version>0.1.3-SNAPSHOT</version>
+    </dependency>
+</xml>
